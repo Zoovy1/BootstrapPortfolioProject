@@ -89,6 +89,10 @@ footer {
   padding: 40px 0;
 }
 
+.marketing h3 {
+  font-size: 150%;
+}
+
 .marketing footer p {
   font-size: 150%;
 }
