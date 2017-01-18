@@ -89,8 +89,8 @@ footer {
   padding: 40px 0;
 }
 
-span {
-  font-size: 50%;
+.marketing p {
+  font-size: 10px;
 }
 
 /* RESPONSIVE CSS
